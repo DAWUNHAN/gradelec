@@ -8,3 +8,4 @@ Students at the University of Sydney can share opinions of their lectures.
 - [ ] Lecture lists
 - [ ] Detail of a lecture
 - [ ] Rating
+- [ ] Search Units of study
